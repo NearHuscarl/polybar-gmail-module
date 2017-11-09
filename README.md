@@ -1,5 +1,5 @@
-# polybar-gmail-module
-gmail custom module for polybar
+# Polybar Gmail Module
+Custom module for [polybar](https://github.com/jaagr/polybar) that count unread mails from gmail
 
 ## Dependency:
 * google-api-python-client
