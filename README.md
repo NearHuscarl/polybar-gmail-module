@@ -8,9 +8,8 @@ Custom module for [polybar](https://github.com/jaagr/polybar) that count unread 
 ## Installation
 ```
 cd ~/.config/polybar
-git clone https://github.com/NearHuscarl/polybar-gmail-module
-mv polybar-gmail-module gmail
-~/.config/polybar/gmail/gmail.py
+git clone https://github.com/NearHuscarl/polybar-gmail-module gmail
+cd ~/.config/polybar/gmail/ && ./gmail.py
 ```
 
 ## Add to polybar
